@@ -1,0 +1,8 @@
+{
+  "name": "DistroInfinite",
+  "description": "An infinite scrollable encyclopedia of Linux distributions with real-time sourced data, history, specs, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
